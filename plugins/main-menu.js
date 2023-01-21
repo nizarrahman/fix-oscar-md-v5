@@ -346,12 +346,12 @@ let buttonMessage= {
 'contextInfo':{
 'externalAdReply':{
 'showAdAttribution': true, 
-'mediaUrl': 'https://instagram.com/jarotr_',
-'title': '𝙱𝙾𝚃 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴 𝙱𝚈 𝙹𝙰𝚁𝙾𝚃',
+'mediaUrl': 'https://instagram.com/nizarrrahman.f_',
+'title': '𝘉𝘰𝘵 𝘉𝘺 𝘕𝘢𝘪 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳',
 'body':'',
 'mediaType': 2,
 'thumbnail': fs.readFileSync('./thumbnail.jpg'),
-'sourceUrl': 'https://instagram.com/jarotr_'}},
+'sourceUrl': 'https://instagram.com/nizarrrahman.f_'}},
 'caption': `             *『 D A S H B O A R D』*`,
 'footer': text,
 'buttons':[
