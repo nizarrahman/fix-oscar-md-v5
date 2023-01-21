@@ -1,6 +1,6 @@
 global.you = ['6281386945391'] 
 //Developer Bot
-global.namebot = 'Nizar'
+global.namebot = '𝗕𝗼𝘁 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗡𝗮𝗶 𝗦𝘁𝗼𝗿𝗲'
 global.rowner = ['6281386945391' // Real Owner Bot
 global.owner = ['6281386945391'] // Owner Bot
 global.police = [] // Police Bot
