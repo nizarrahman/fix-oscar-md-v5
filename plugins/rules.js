@@ -23,15 +23,15 @@ let rules = `*𝙱𝚊𝚌𝚊 𝙹𝚊𝚗𝚐𝚊𝚗 𝙽𝚐𝚎𝚋𝚞𝚝
 ┍┛
 ┆⫹⫺ 𝙷𝚊𝚕𝚘 𝙺𝚊𝚔 ${name}
 └─┈⟅`
-let nth = `*𝚁𝚞𝚕𝚎𝚜 𝙾𝚜𝚌𝚊𝚛-𝙼𝚞𝚕𝚝𝚒𝙳𝚎𝚟𝚒𝚌𝚎*`
+let nth = `𝗕𝗼𝘁 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗡𝗮𝗶 𝗦𝘁𝗼𝗿𝗲`
 conn.send3ButtonImg(m.chat, `${pickRandom(flaaa2)}` + `${ucapan()} ` + `${name}`, nth, rules, 'Sosial Media', '.sosialmedia', 'Owner', '.owner', 'Donasi', '.donasi', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: 'https://wa.me/p/5489299044451325/6285850539404',
+    mediaUrl: 'https://wa.me/6281386945391',
     mediaType: 2, 
     description: gc,
     title: "Sᴇᴡᴀ Cʜᴀᴛ ᴏᴡɴᴇʀ!!!",
     body: wm,
     thumbnail: fs.readFileSync('thumbnail.jpg'),
-    sourceUrl: 'https://wa.me/6285850539404',
+    sourceUrl: 'https://wa.me/6281386945391',
      }}
   })
 }
