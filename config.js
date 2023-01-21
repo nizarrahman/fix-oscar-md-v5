@@ -1,8 +1,8 @@
-global.you = ['6285850539404'] 
+global.you = ['6281386945391'] 
 //Developer Bot
-global.namebot = 'oscar'
-global.rowner = ['6285850539404', '16199961931'] // Real Owner Bot
-global.owner = ['6285850539404'] // Owner Bot
+global.namebot = 'Nizar'
+global.rowner = ['6281386945391', '6281223618476','6281291051305','6283120240903'] // Real Owner Bot
+global.owner = ['6281386945391'] // Owner Bot
 global.police = [] // Police Bot
 global.mods = []  // Want some help?
 global.prems = [] // Premium user has unlimited limit
@@ -77,17 +77,17 @@ global.fsizedoc = '564588643' // default 10TB
 global.fpagedoc = '444'
 
 //global sosialmedia oscar
-global.sc = "⫹⫺ Nih Jangan Lupa Kasih Star https://github.com/JarotOffc?tab=repositories"
-global.sgc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
-global.gc1 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
-global.instagram = '⫹⫺ Nih Jangan Lupa Follow https://instagram.com/Jarotr_'
-global.ytowner = '⫹⫺ Jangan Lupa Subscribe https://youtube.com/@Jarotoffc'
-global.gc2 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/KGuKY4wuKHS8sj6K5IHjFG'
-global.diskusi = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/LKxOImbU62e9sgai6Ow2Ef'
+global.sc = "⫹⫺ Chat Owner https://wa.me/6281386945391"
+global.sgc = 'https://chat.whatsapp.com/BWHiCcMOZG39gYt1HCc2ue'
+global.gc1 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/BWHiCcMOZG39gYt1HCc2ue'
+global.instagram = '⫹⫺ Nih Jangan Lupa Follow https://instagram.com/nizarrrahan.f_'
+global.ytowner = ''
+global.gc2 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/BWHiCcMOZG39gYt1HCc2ue'
+global.diskusi = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/BWHiCcMOZG39gYt1HCc2ue'
 // Sticker WM
-global.packname = 'Jarot offc'
-global.author = 'Jarot offc'
-global.wm = '© Jarot offc'
+global.packname = 'Nizar X Nai Developer'
+global.author = 'Nizar Rahman'
+global.wm = '© 𝗕𝗼𝘁 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗡𝗮𝗶 𝗦𝘁𝗼𝗿𝗲'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
