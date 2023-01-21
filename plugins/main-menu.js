@@ -270,7 +270,7 @@ let fot = `𝙽𝚘𝚝𝚎 𝙹𝚒𝚔𝚊 𝙼𝚎𝚗𝚎𝚖𝚞𝚔𝚊�
 `
 const listMessage = {
 footer: fot,
-text: 'Made By Jarot Offc',
+text: 'Made By Nizar X Nai Developer',
 mentions: await conn.parseMention(jarot),
 title: jarot,
 buttonText: `CLICK HERE ⎙`, 
