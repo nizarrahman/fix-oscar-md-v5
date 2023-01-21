@@ -13,24 +13,30 @@ let handler = async (m) => {
     else who = m.sender
     let user = global.db.data.users[who]
 let tqto = `*▸ - - - —「 BIG THANKS TO 」— - - - ◂*
-*❉ Adiwajshing*
-*❉ Bochil Gaming*
-*❉ BrunoSobrino*
-*❉ Jarot Offc*
-*❉ Kriz offc*
-*❉ Zivfur*
-*❉ Mursid*
+*❉ Nizar Rahman*
+https://instagram.com/nizarrrahman.f_
+*❉ Adryan Nugraha*
+https://instagram.com/adrnngrha
+*❉ Irham Khoiri*
+https://instagram.com/yuki_sen23
+*❉ Rafie*
+https://www.instagram.com/rafiedotid
+*❉ Nai Developer*
+https://www.instagram.com/nai.dev.store/
 
-*▸ - - - —「 Script 」— - - - ◂*
-*❉ Kalo Mau Repload Kasih Base Ori Nya*
-https://github.com/JarotOffc?tab=repositories
+
+*▸ - - - —「 Info 」— - - - ◂*
+*❉ Website Author Dan Team*
+https://www.nizarr.my.id
+https://www.rafie.me
+https://my-selff.my.id/
 
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/Jarotr_",
+    mediaUrl: "https://Instagram.com/nizarrrahman.f_",
     mediaType: "VIDEO",
     description: "https://Instagram.com/Jarotr_", 
-    title: 'Oscar-MultiDevice',
+    title: '𝗕𝗼𝘁 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗡𝗮𝗶 𝗦𝘁𝗼𝗿𝗲',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
