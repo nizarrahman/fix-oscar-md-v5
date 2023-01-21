@@ -22,6 +22,9 @@ let run = `⊙────❲ R U N T I M E 〕
 ⫹⫺ Time : *${wib}*
 ⫹⫺ Running : *${uptime}*
 ⫹⫺ Date : *${week} ${date}*
+
+⫹⫺ Website Author
+https://www.nizarr.my.id
 ────────────⊙ `
       conn.sendBut( m.chat, run, wm, `Menu`, `.menu`, m)
 }
