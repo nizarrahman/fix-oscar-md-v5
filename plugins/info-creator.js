@@ -28,12 +28,8 @@ VERSION:3.0
 N:;;;
 FN: ᯤ 𝙅𝙖𝙧𝙤𝙩 𝙊𝙛𝙘
 item.ORG: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
-item1.TEL;waid=6285850539404:6285850539404@s.whatsapp.net
-item1.X-ABLabel: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
-// Jangan Di Ganti Nomer Yang Bawah!! Jangan Lupa berterima kasih 
-item2.TEL;waid=6285850539404:6285850539404@s.whatsapp.net
-item2.X-ABLabel: Creator Bot
-END:VCARD`
+item1.TEL;waid=6281386945391:6281386945391@s.whatsapp.net
+item1.X-ABLabel: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ`
 const sentMsg  = await conn.sendMessage(
     m.chat,
     { 
