@@ -16,7 +16,7 @@ let tqto = `*▸ - - - —「 BIG THANKS TO 」— - - - ◂*
 *❉ Nizar Rahman*
 https://instagram.com/nizarrrahman.f_
 *❉ Adryan Nugraha*
-https://instagram.com/adrnngrha
+https://instagram.com/adrynngrha
 *❉ Irham Khoiri*
 https://instagram.com/yuki_sen23
 *❉ Rafie*
