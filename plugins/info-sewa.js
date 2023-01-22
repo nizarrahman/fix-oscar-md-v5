@@ -18,7 +18,7 @@ let info = `
 ┊⫹⫺ *Normal:* _${sn}k/grup (1 bulan)_
 ┊⫹⫺ *Standar:* _${ss}k/grup (2 bulan)_
 ┊⫹⫺ *Pro:* _${sp}k/grup (4 bulan)_                                                      
-┊⫹⫺ *Vip:* = _${sv}k/grup (12 bulan)_
+┊⫹⫺ *Permanent:* = _${sv}k/grup (Sampai Gc Vakum)_
 ╰═┅═━––––––๑
 
 ╭━━━━「 *PREMIUM* 」
@@ -30,8 +30,9 @@ let info = `
 ╰═┅═━––––––๑
 
 *⫹⫺ PAYMENT:*
-• *Pulsa:* ['6281386945391]
+• *Pulsa:* ['6281386945391']
 • *Gopay:* ['6281386945391']
+• *Saweria: ['https://saweria.co/NaibotStore']
 
 –––––– *🐾 Kebijakan* ––––––
 🗣️: Kak, Kok harganya mahal banget?
