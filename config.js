@@ -1,7 +1,7 @@
-global.you = ['6281386945391'] 
+global.you = ['6281386945391']
 //Developer Bot
-global.namebot = '𝗕𝗼𝘁 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗡𝗮𝗶 𝗦𝘁𝗼𝗿𝗲'
-global.rowner = ['6281386945391' // Real Owner Bot
+global.namebot = 'oscar'
+global.rowner = ['6281386945391', '6281386945391'] // Real Owner Bot
 global.owner = ['6281386945391'] // Owner Bot
 global.police = [] // Police Bot
 global.mods = []  // Want some help?
@@ -12,8 +12,8 @@ global.api = '45083080630f3830a5bed882'
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
-    bx: 'https://bx-hunter.herokuapp.com',
-  dhnjing: 'https://dhnjing.xyz', 
+  bx: 'https://bx-hunter.herokuapp.com',
+  dhnjing: 'https://dhnjing.xyz',
   hardianto: 'https://hardianto.xyz',
   jonaz: 'https://jonaz-api-v2.herokuapp.com',
   neoxr: 'https://neoxr-api.herokuapp.com',
@@ -27,13 +27,13 @@ global.APIs = { // API Prefix
   bsbt: 'https://bsbt-api-rest.herokuapp.com',
   zahir: 'https://zahirr-web.herokuapp.com',
   zeks: 'https://api.zeks.xyz',
-  males : 'https://malesin.xyz',
+  males: 'https://malesin.xyz',
   zekais: 'http://zekais-api.herokuapp.com',
   hardianto: 'https://hardianto-chan.herokuapp.com',
   pencarikode: 'https://pencarikode.xyz',
   erdwepe: 'https://erdwpe-api.herokuapp.com',
   lolhuman: 'https://api.lolhuman.xyz',
-  LeysCoder: 'https://leyscoders-api.herokuapp.com' 
+  LeysCoder: 'https://leyscoders-api.herokuapp.com'
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
@@ -52,11 +52,11 @@ global.APIKeys = { // APIKey Here
 }
 
 global.socket = {
-	qr: true,
-	version: false,
-	logger: true,
-	retryMap: false,
-	pendingMessage: false,
+  qr: true,
+  version: false,
+  logger: true,
+  retryMap: false,
+  pendingMessage: false,
 }
 
 global.useMulti = false
