@@ -26,15 +26,18 @@ let handler = async (m, {conn}) => {
 const vcard = `BEGIN:VCARD
 VERSION:3.0
 N:;;;
-FN: ᯤ 𝙅𝙖𝙧𝙤𝙩 𝙊𝙛𝙘
+FN: ᯤ Nizar
 item.ORG: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
 item1.TEL;waid=6281386945391:6281386945391@s.whatsapp.net
-item1.X-ABLabel: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ`
+item1.X-ABLabel: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
+item2.TEL;waid=6281386945391:6281386945391@s.whatsapp.net
+item2.X-ABLabel: Nizar
+END:VCARD`
 const sentMsg  = await conn.sendMessage(
     m.chat,
     { 
         contacts: { 
-            displayName: 'OWNER BOT', 
+            displayName: 'Nizar', 
             contacts: [{ vcard }]  
         }
     }
