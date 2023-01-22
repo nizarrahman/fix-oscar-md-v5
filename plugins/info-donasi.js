@@ -30,6 +30,7 @@ Kalian bisa mendukung bot ini dengan cara
 ┌〔 PAYMANT 〕
 ├*📌 Gopay* : 6281386945391
 ├*📌 Pulsa* : 6281386945391
+├*📌 Saweria* : https://saweria.co/NaibotStore
 └────
 Berapapun donasi kalian akan sangat berarti 👍
 
