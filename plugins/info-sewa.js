@@ -33,6 +33,7 @@ let info = `
 • *Pulsa:* ['6281386945391']
 • *Gopay:* ['6281386945391']
 • *Saweria: ['https://saweria.co/NaibotStore']
+• *Bca:*
 
 –––––– *🐾 Kebijakan* ––––––
 🗣️: Kak, Kok harganya mahal banget?
