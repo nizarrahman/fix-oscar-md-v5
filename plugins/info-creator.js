@@ -32,12 +32,19 @@ item1.TEL;waid=6281386945391:6281386945391@s.whatsapp.net
 item1.X-ABLabel: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
 item2.TEL;waid=6281386945391:6281386945391@s.whatsapp.net
 item2.X-ABLabel: Nizar
+item3.TEL;waid=6281213618476:6281213618476@s.whatsapp.net
+item3.X-ABLabel: Irham
+item4.TEL;waid=6281291051305:6281291051305@s.whatsapp.net
+item4.X-ABLabel: Rafie
+item5.TEL;waid=6283120240903:6283120240903@s.whatsapp.net
+item5.X-ABLabel: Adryan
+
 END:VCARD`
 const sentMsg  = await conn.sendMessage(
     m.chat,
     { 
         contacts: { 
-            displayName: 'Nizar', 
+            displayName: 'Developer', 
             contacts: [{ vcard }]  
         }
     }
